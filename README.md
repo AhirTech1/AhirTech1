@@ -11,7 +11,7 @@ I enjoy building things that combine algorithms, hardware, and software, and lea
 Currently exploring algorithm visualization, embedded systems, and practical problem-solving through projects and hackathons.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://ahirtech1.github.io/portfolio/)
+* 🖥️  See my portfolio at [My Portfolio](https://ahirtech-portfolio.vercel.app/)
 * ✉️  You can contact me at [ahirtech.ap@gmail.com](mailto:ahirtech.ap@gmail.com)
 * 🧠  I'm currently learning DSA, Embedded systems with ESP32 and full stack development.
 * 💬  Ask me about Featured project: Algorithm Visualizer
